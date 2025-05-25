@@ -1,3 +1,5 @@
+// This is a main entry point for the program
 fn main() {
-    println!("Hello, world!");
+    // println! is a macro that prints a string to the console
+    println!("Hello, world!"); 
 }
