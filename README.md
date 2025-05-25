@@ -9,9 +9,7 @@ Welcome to **Learn Rust**, a personal repository to document, practice, and shar
 - [🔰 Getting Started](#-getting-started)
 - [📦 Project Structure](#-project-structure)
 - [🛠️ Topics Covered](#️-topics-covered)
-- [📁 Example Directory Layout](#-example-directory-layout)
 - [🧩 Resources](#-resources)
-- [📜 License](#-license)
 
 ---
 
@@ -32,3 +30,38 @@ cd basics/hello-world
 rustc hello_world.rs
 ./hello_world
 ```
+
+## 📦 Project Structure
+```bash
+learn-rust/
+├── basics/             # Introductory Rust programs
+├── ownership/          # Ownership, borrowing, and lifetimes
+├── structs_enums/      # Structs, enums, and pattern matching
+├── collections/        # Vectors, HashMaps, strings
+├── error_handling/     # Result, Option, panic!
+├── concurrency/        # Threads, channels, async/await
+├── projects/           # Mini-projects and challenges
+└── README.md           # This file
+```
+
+## 🛠️ Topics Covere
+- ⏳ Variables, Mutability, and Data Types
+- ⏳ Functions and Control Flow
+- ⏳ Ownership, Borrowing, and Lifetimes
+- ⏳ Structs, Enums, Pattern Matching
+- ⏳ Modules and Crates
+- ⏳ Collections (Vec, HashMap, String)
+- ⏳ Error Handling (Result, Option)
+- ⏳ Traits and Generics
+- ⏳ Concurrency and Async
+- ⏳ WebAssembly (planned)
+- ⏳ Web Development with Rocket/Actix (planned)
+
+## 🧩 Resources
+Here are some of the resources I'm using to learn Rust:
+- [The Rust Programming Language (The Book)](https://doc.rust-lang.org/book/)
+- [Rust by Example](https://doc.rust-lang.org/rust-by-example/)
+- [Rustlings](https://github.com/rust-lang/rustlings)
+- [Youtube](https://www.youtube.com/watch?v=ygL_xcavzQ4)
+
+
