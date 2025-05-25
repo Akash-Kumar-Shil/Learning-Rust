@@ -25,3 +25,8 @@
 - **Borrowing**: Access data without transferring ownership.
 - **Lifetimes**: Ensure data remains valid during its use.
 
+
+# List of Works
+- **Print hello world** in Rust.
+- **Using variables** in Rust.
+- **Using mut** in Rust variable.
