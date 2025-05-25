@@ -16,8 +16,8 @@ fn main() {
 }
 ```
 
-## Step 2: Run code
-``` output
+Output
+``` Bash
 John wick
 ```
 
@@ -60,8 +60,8 @@ fn main() {
     println!("{}", name);
 }
 ```
-## Step 5: Run code
-``` output
+Output:
+``` Bash
 Jhack wick
 ```
 
