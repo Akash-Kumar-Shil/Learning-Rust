@@ -21,7 +21,7 @@ To run the code examples:
 
 ```bash
 # Clone the repository 
-git clone https://github.com/pixelsnail7/Learning-Rust.git
+git clone https://github.com/Akash-Kumar-Shil/Learning-Rust.git
 cd Learning-Rust
 ```
 
