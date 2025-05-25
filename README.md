@@ -10,6 +10,7 @@ Welcome to **Learn Rust**, a personal repository to document, practice, and shar
 - [📦 Project Structure](#-project-structure)
 - [🛠️ Topics Covered](#️-topics-covered)
 - [🧩 Resources](#-resources)
+- [🖥️ Online Playground](#-Rust-playground)
 
 ---
 
@@ -63,5 +64,9 @@ Here are some of the resources I'm using to learn Rust:
 - [Rust by Example](https://doc.rust-lang.org/rust-by-example/)
 - [Rustlings](https://github.com/rust-lang/rustlings)
 - [Youtube](https://www.youtube.com/watch?v=ygL_xcavzQ4)
+
+
+## 🖥️ Rust Playground
+I've set up a [Rust Playground](https://play.rust-lang.org/) where you can experiment with Rust code snippets.
 
 
